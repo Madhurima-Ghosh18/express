@@ -4,7 +4,7 @@
 
 **This project has a [Code of Conduct][].**
 
-## My changes
+# My changes
 
 * [Installation](#Installation)
 * [Features](#Features)
